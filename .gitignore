@@ -1,0 +1,4 @@
+/target
+.falcon
+debug.out
+*.sw*
