@@ -1,3 +1,0 @@
-[toolchain]
-# needed for asm
-channel = "nightly-2021-11-24" 
